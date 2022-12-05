@@ -1,0 +1,16 @@
+name: 4dn-demo
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip=22.3.1
+  - pip:
+    - bioframe==0.3.3
+    - fastparquet==2022.11.0
+    - hg==0.1.dev51+g7798681
+    - ipywidgets==7.7.2
+    - jupyter-scatter==0.8.0
+    - jupyterlab-widgets==1.1.1
+    - pyarrow==10.0.1
+    - tweakpane==0.0.1
