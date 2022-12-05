@@ -8,8 +8,9 @@ dependencies:
   - pip:
     - bioframe==0.3.3
     - fastparquet==2022.11.0
-    - hg==0.1.dev51+g7798681
+    - git+https://github.com/manzt/hg@77986811fb7103fde1da97058c2e407989b4f31c
     - ipywidgets==7.7.2
+    - jupyter==1.0.0
     - jupyter-scatter==0.8.0
     - jupyterlab-widgets==1.1.1
     - pyarrow==10.0.1
