@@ -61,7 +61,7 @@
             "height": 30
           },
           {
-            "type": "line",
+            "type": "bar",
             "uid": "ZCWRerBdT2G4zNyhPUXxyA",
             "tilesetUid": "H_H8wZENRd2TiMghw70Afg",
             "server": "https://resgen.io/api/v1",
@@ -92,7 +92,7 @@
             "height": 30
           },
           {
-            "type": "line",
+            "type": "bar",
             "uid": "MsACLsAgTfC_HInQ9TNP_Q",
             "tilesetUid": "Ra460tcpS4WduGeFPj9zIA",
             "server": "https://resgen.io/api/v1",
@@ -123,7 +123,7 @@
             "height": 30
           },
           {
-            "type": "line",
+            "type": "bar",
             "uid": "ZNdZh4vwRUii-bt944DM1Q",
             "tilesetUid": "Bv0dddZhSQ29gG1X2mB2uA",
             "server": "https://resgen.io/api/v1",
@@ -154,7 +154,7 @@
             "height": 30
           },
           {
-            "type": "line",
+            "type": "bar",
             "uid": "Dvb6QKE7S6eu3CFhN0RMCA",
             "tilesetUid": "UnY7QgKZTtqYSEsWTJKUqA",
             "server": "https://resgen.io/api/v1",
@@ -185,7 +185,7 @@
             "height": 30
           },
           {
-            "type": "line",
+            "type": "bar",
             "uid": "HJ14yf1mS6KFu9OtYKhuxA",
             "tilesetUid": "Oy8wQZqxQm2--hqU0IHB7g",
             "server": "https://resgen.io/api/v1",
