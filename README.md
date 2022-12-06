@@ -1,4 +1,7 @@
+# 4dn-hg-jscatter-demo
 
-```
-pip install jupyter bioframe jupyter-scatter git+https://github.com/manzt/hg
+```bash
+conda create env -f environment.yaml
+conda activate 4dn-demo
+jupyter notebook
 ```
