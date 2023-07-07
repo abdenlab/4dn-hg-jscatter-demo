@@ -1,0 +1,13 @@
+[project]
+name = "4dn-demo"
+version = "0.0.0"
+dependencies = [
+    "bioframe==0.4.1",
+    "fastparquet==2023.7.0",
+    "higlass-python==1.0.0",
+    "ipywidgets==8.0.7",
+    "jupyter-scatter==0.12.6",
+    "jupyterlab==4.0.2",
+    "pyarrow==12.0.1",
+    "seaborn==0.12.2",
+]
